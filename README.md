@@ -15,3 +15,6 @@ Se ha realizado un análisis exploratorio de datos (EDA) para definir el objetiv
 
 Se ha creado un dashboard interactivo en Power BI que permite a las personas que buscan adoptar un perro elegir según sus necesidades. El dashboard incluye varios parámetros que se pueden ajustar para refinar la búsqueda. 
 Se han incluido descripciones de cada perro para que las personas interesadas puedan conocer mejor a los perros disponibles
+
+
+![Dashboard PowerBI](Dashboard.jpg)
